@@ -1,25 +1,26 @@
-E-Commerce Web Application
+# E-Commerce Web Application
 
 This is a simple E-Commerce Web Application developed using Python Flask and HTML. The application displays products with their prices and provides a basic shopping interface for users.
 
-Features
+## Features
 
-- Product listing
-- Product price display
-- Add to Cart button interface
-- Simple and user-friendly design
+* Product listing
+* Product price display
+* Add to Cart button interface
+* Simple and user-friendly design
 
-Technologies Used
+## Technologies Used
 
-- Python
-- Flask
-- HTML
+* Python
+* Flask
+* HTML
 
-Purpose
+## Purpose
 
 This project was created as part of internship training to improve web development and backend integration skills.
 
-Author
+## Author
 
 Guru Jeyanthi
+
 
